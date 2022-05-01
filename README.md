@@ -3,9 +3,9 @@
 <img src="https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl.jpg" width="300%">
 <p align="center">
 	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/sachimc/sachimc/blob/main/toppng.com-whatsapp-960x540.png" width=118px "WhatsApp"></a>
-	<a href="instagram.com/_sachi_mc/"><img title="Instragam Account" src="https://github.com/sachimc/sachimc/blob/main/pngwing.com.png"width=118px></a>
-	<a href="https://t.me/sachi_mc"><img title="Telegram Number" src="https://github.com/sachimc/sachimc/blob/main/pngwing.com%20(1).png"></a>
-	<a href="https://www.facebook.com/s.sachi.mc"><img title="Facebook Profile" src=https://github.com/sachimc/sachimc/blob/main/clipart1854464.png"></a>
+	<a href="instagram.com/_sachi_mc/"><img title="Instragam Account" src="https://github.com/sachimc/sachimc/blob/main/pngwing.com.png" width=118px></a>
+	<a href="https://t.me/sachi_mc"><img title="Telegram Number" src="https://github.com/sachimc/sachimc/blob/main/pngwing.com%20(1).png"width=118px></a>
+	<a href="https://www.facebook.com/s.sachi.mc"><img title="Facebook Profile" src=https://github.com/sachimc/sachimc/blob/main/clipart1854464.png"width=118px "WhatsApp"></a>
 </p>
 
 
