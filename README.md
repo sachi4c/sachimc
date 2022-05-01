@@ -1,4 +1,4 @@
-<h1 align=>Hi, I'm Kavindu Dilhara(Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
+<h1 align=>Hi, I'm Sachintha (Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 <h4 align="center">⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱</h4>     
 <img src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/backgroundk.png" width="300%">
 <p align="center">
