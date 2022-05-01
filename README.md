@@ -2,18 +2,18 @@
 <h4 align="center">⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱</h4>     
 <img src="https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl.jpg" width="300%">
 <p align="center">
-	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20wa.jpg" width=118px "whatsapp"></a>
-	<a href="https://www.instagram.com/kavindudilhara50/"><img title="instragame account" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20insta.jpg"width=118px></a>
+	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20wa.jpg" width=118px "WhatsApp"></a>
+	<a href="instagram.com/_sachi_mc/"><img title="Instragam Account" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20insta.jpg"width=118px></a>
 	<a href="https://t.me/sachi_mc"><img title="Telegram Number" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 	<a href="https://www.facebook.com/s.sachi.mc"><img title="Facebook Profile" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
 </p>
 
 
-- 👨🏽‍💻 HELLO I’m [Sachintha Sandakelum](https://www.facebook.com/s.sachi.mc )
+- 👨🏽‍💻 HELLO I’m [Sachintha Sandakelum](https://www.facebook.com/s.sachi.mc)
 - 🤔 I’m looking for New programming methord
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 -😊 Ask me about anything, I am happy to help
-- 📫 How to reach me [Whatsapp](https://wa.me/qr/6YU2FJRVFLGAM1) 
+- 📫 How to reach me [Whatsapp](https://wa.link/q1r1l3) 
 - 💫 **I am only a beginner developer.. 🌆**
 </p>
 
