@@ -10,10 +10,10 @@
 
 
 - 👨🏽‍💻 HI! I’m [Sachintha Sandakelum](https://www.facebook.com/s.sachi.mc)
-- 🤔 I’m looking for New programming methods
-- 🌱 I’m currently learning **Java, Node.js, HTML, Python**
+- 👀 I’m looking for New programming methods
+- 🧐 I’m currently learning **Java, Node.js, HTML, Python**
 - 📫 How to reach me on [Whatsapp](https://wa.link/q1r1l3) 
-- 💫 **I am only a beginner in developing... 🌆**
+- 💫 **I am only a beginner of developing... 🌆**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
