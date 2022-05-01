@@ -1,5 +1,5 @@
 <h1 align=>Hi, I'm Sachintha Sandakelum (Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>     
-<img src="https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl.jpg" width="300%">
+<img src="https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl.jpg" width="200%">
 <p align="right">
 	<a href="https://www.facebook.com/s.sachi.mc"><img title="Facebook Profile" src="https://github.com/sachimc/sachimc/blob/main/Facebook_f_logo_(2021).svg%20(1).png"></a>
 	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/sachimc/sachimc/blob/main/pngfind.com-logo-whatsapp-png-49.png"></a>
