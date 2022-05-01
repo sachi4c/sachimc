@@ -1,6 +1,6 @@
 <h1 align=>Hi, I'm Sachintha (Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 <h4 align="center">⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱</h4>     
-<img src="https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl-on-2048x2048.jpg" width="300%">
+<img src="https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl.jpg" width="300%">
 <p align="center">
 	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20wa.jpg" width=118px "whatsapp"></a>
 	<a href="https://www.instagram.com/kavindudilhara50/"><img title="instragame account" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20insta.jpg"width=118px></a>
