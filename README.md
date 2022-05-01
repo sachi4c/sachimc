@@ -2,10 +2,10 @@
 <h4 align="center">⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱</h4>     
 <img src="https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl.jpg" width="300%">
 <p align="center">
-	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20wa.jpg" width=118px "whatsapp"></a>
-	<a href="instagram.com/_sachi_mc/"><img title="Instragam Account" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20insta.jpg"width=118px></a>
-	<a href="https://t.me/sachi_mc"><img title="Telegram Number" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-	<a href="https://www.facebook.com/s.sachi.mc"><img title="Facebook Profile" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
+	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/sachimc/sachimc/blob/main/WhatsApp_Logo_1-1-150x150.png" width=118px "whatsapp"></a>
+	<a href="instagram.com/_sachi_mc/"><img title="Instragam Account" src="https://github.com/sachimc/sachimc/blob/main/new-instagram-logo-png-transpare.png"width=118px></a>
+	<a href="https://t.me/sachi_mc"><img title="Telegram Number" src="https://github.com/sachimc/sachimc/blob/main/telegram-logo-png-0%20(1).png"></a>
+	<a href="https://www.facebook.com/s.sachi.mc"><img title="Facebook Profile" src="https://github.com/sachimc/sachimc/blob/main/Facebook_f_logo_(2021).svg%20(1).png"></a>
 </p>
 
 
