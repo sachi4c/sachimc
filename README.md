@@ -1,4 +1,4 @@
-<h1 align=>Hi, I'm Sachintha (Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
+<h1 align=>Hi, I'm Sachintha Sandakelum (Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 <h4 align="center">⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊╌──┈⊰᯽⊱</h4>     
 <img src="https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl.jpg" width="300%">
 <p align="center">
@@ -6,6 +6,7 @@
 	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/sachimc/sachimc/blob/main/pngfind.com-logo-whatsapp-png-49.png"></a>
 	<a href="https://www.instagram.com/_sachi_mc/"><img title="Instragam Account" src="https://github.com/sachimc/sachimc/blob/main/pngfind.com-circle-logo-png-7093.png"></a>
 	<a href="https://t.me/sachi_mc"><img title="Telegram Number" src="https://github.com/sachimc/sachimc/blob/main/telegram-logo-png-0%20(1).png"></a>
+	<a href="discordapp.com/users793221785541541908/"><img title="Discord Server" src="https://github.com/sachimc/sachimc/blob/main/discord-logo-png-7637%20(1).png"></a>
 </p>
 
 
