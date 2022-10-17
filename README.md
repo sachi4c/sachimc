@@ -14,6 +14,36 @@
 - 🧐 I’m currently learning **Java, Node.js, HTML, Python**
 - 📫 How to reach me on [Whatsapp](https://wa.link/q1r1l3) 
 - 💫 **I am only a beginner of developing... 🌆**
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/sachimc rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-67b67d83-4bd0-432c-83d6-2ea4df8a5e28' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >sachimc</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Welcome!!!
+
+My pleasure to have your presence on my profile. It's your best Photo Video & Audio EDITING zones for your online stores and webs.
+
+MY STRENGTH:
+Photo optimization, colorization, background removal, mask, shadow and all.
+Video editing,trimming, audio extracting,etc.
+Audio editing, mixing, effecs etc.
+
+I have 5 years of experience all of them. I have professional work experience on all kinds of editing including the mentioned items. All my clients are happy and believe to make you happy with my best editing services.
+
+Feel free to contact me anytime.
+
+Thanks,
+Sachintha.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-67b67d83-4bd0-432c-83d6-2ea4df8a5e28' src='https://widgets.fiverr.com/api/v1/seller/sachimc?widget_id=67b67d83-4bd0-432c-83d6-2ea4df8a5e28' data-config='{"category_name":"\n                                    Music \u0026 Audio\n\n                            "}' async='true' defer='true'></script>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
