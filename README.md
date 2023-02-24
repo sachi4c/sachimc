@@ -1,5 +1,5 @@
 <img src="https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl.jpg" width="300%">
-<div>
+<div class="d1">
 <h1 style="color: aliceblue;" align=>Hi, I'm Sachintha Sandakelum (Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>     
 
 <p align="left">
