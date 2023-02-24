@@ -1,4 +1,4 @@
- <body style="background-image: url(https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl.jpg); background-size: cover; width: 100%; height: 705px;">
+<img src="https://github.com/sachimc/sachimc/blob/main/blue-eyes-cute-teen-girl.jpg" width="300%">
 <div>
 <h1 style="color: aliceblue;" align=>Hi, I'm Sachintha Sandakelum (Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>     
 
@@ -49,5 +49,4 @@
 	<a href="https://t.me/sachi_mc"><img title="Telegram Number" src="https://github.com/sachimc/sachimc/blob/main/telegram-logo-png-0%20(1).png"></a>
 	<a href="discordapp.com/users793221785541541908/"><img title="Discord Server" src="https://github.com/sachimc/sachimc/blob/main/discord-logo-png-7637%20(1).png"></a>
 </p>
-
-    </body>
+<img src="https://github.com/sachimc/sachimc/blob/main/200.gif" width="100%">
