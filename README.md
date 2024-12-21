@@ -8,15 +8,15 @@
 <h1 style="color: aliceblue;" align=>Hi, I'm Sachintha Sandakelum (Sri Lanka)👋&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>     
 
 <p align="left">
-	<a href="https://www.facebook.com/s.sachi.mc"><img title="Facebook Profile" src="https://github.com/sachimc/sachimc/blob/main/Facebook_f_logo_(2021).svg%20(1).png"></a>
+	<a href="https://www.facebook.com/sachi4c"><img title="Facebook Profile" src="https://github.com/sachimc/sachimc/blob/main/Facebook_f_logo_(2021).svg%20(1).png"></a>
 	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/sachimc/sachimc/blob/main/pngfind.com-logo-whatsapp-png-49.png"></a>
-	<a href="https://www.instagram.com/_sachi_mc/"><img title="Instragam Account" src="https://github.com/sachimc/sachimc/blob/main/pngfind.com-circle-logo-png-7093.png"></a>
-	<a href="https://t.me/sachi_mc"><img title="Telegram Number" src="https://github.com/sachimc/sachimc/blob/main/telegram-logo-png-0%20(1).png"></a>
+	<a href="https://www.instagram.com/sachi4c/"><img title="Instragam Account" src="https://github.com/sachimc/sachimc/blob/main/pngfind.com-circle-logo-png-7093.png"></a>
+	<a href="https://t.me/sachi4c"><img title="Telegram Number" src="https://github.com/sachimc/sachimc/blob/main/telegram-logo-png-0%20(1).png"></a>
 	<a href="discordapp.com/users793221785541541908/"><img title="Discord Server" src="https://github.com/sachimc/sachimc/blob/main/discord-logo-png-7637%20(1).png"></a>
 </p>
 
 <p style="color: aliceblue;">
-- HI! I’m <a href="https://www.facebook.com/s.sachi.mc" style="color: aqua;">Sachintha Sandakelum</a><br>
+- HI! I’m <a href="https://www.facebook.com/sachi4c" style="color: aqua;">Sachintha Sandakelum</a><br>
 - 👀 I’m looking for New programming methods<br>
 - 🧐 I’m currently learning Java, Node.js, HTML, Python<br>
 - 📫 How to reach me on <a href="https://wa.link/q1r1l3" style="color: aqua;">Whatsapp</a><br>
@@ -48,10 +48,10 @@
 	<img src="200.gif" width="00%">
 
   <p align="right">
-	<a href="https://www.facebook.com/s.sachi.mc"><img title="Facebook Profile" src="https://github.com/sachimc/sachimc/blob/main/Facebook_f_logo_(2021).svg%20(1).png"></a>
+	<a href="https://www.facebook.com/sachi4c"><img title="Facebook Profile" src="https://github.com/sachimc/sachimc/blob/main/Facebook_f_logo_(2021).svg%20(1).png"></a>
 	<a href="https://wa.link/q1r1l3"><img title="Whatsapp Number" src="https://github.com/sachimc/sachimc/blob/main/pngfind.com-logo-whatsapp-png-49.png"></a>
-	<a href="https://www.instagram.com/_sachi_mc/"><img title="Instragam Account" src="https://github.com/sachimc/sachimc/blob/main/pngfind.com-circle-logo-png-7093.png"></a>
-	<a href="https://t.me/sachi_mc"><img title="Telegram Number" src="https://github.com/sachimc/sachimc/blob/main/telegram-logo-png-0%20(1).png"></a>
+	<a href="https://www.instagram.com/sachi4c/"><img title="Instragam Account" src="https://github.com/sachimc/sachimc/blob/main/pngfind.com-circle-logo-png-7093.png"></a>
+	<a href="https://t.me/sachi4c"><img title="Telegram Number" src="https://github.com/sachimc/sachimc/blob/main/telegram-logo-png-0%20(1).png"></a>
 	<a href="discordapp.com/users793221785541541908/"><img title="Discord Server" src="https://github.com/sachimc/sachimc/blob/main/discord-logo-png-7637%20(1).png"></a>
 </p>
 <img src="https://github.com/sachimc/sachimc/blob/main/200.gif" width="100%">
